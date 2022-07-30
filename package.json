@@ -1,0 +1,11 @@
+{
+  "name": "monorepo-yarn",
+  "version": "2.0.0",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": "https://github.com/wonjieun/monorepo-yarn.git",
+  "author": "Jina <wonjieunkk@gmail.com>",
+  "license": "MIT"
+}
